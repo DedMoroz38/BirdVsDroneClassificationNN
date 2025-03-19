@@ -15,7 +15,8 @@ I used 3 convolutional, 3 pooling and 2 fully connected layers
 3. I wrote some code to view how NN trains over time per epoch and over all epoches
 
 # Results of training
-7th epoch
-![image_progress_epoch_1](https://github.com/user-attachments/assets/89fffce9-584e-4fe0-82ff-5522203fab7a)
+6th epoch
+![image_progress_epoch_6](https://github.com/user-attachments/assets/446fe605-1915-4cc2-b021-865fc8d839f5)
+
 
 I am also working on Medium article for this one in details, once it is dones, the link will be here: <...>
