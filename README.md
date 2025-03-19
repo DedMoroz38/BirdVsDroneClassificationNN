@@ -1,4 +1,4 @@
-# 🐦‍⬛Bird vs 🚁Drone classification Convolutional NCural Network⚛️
+# 🐦‍⬛Bird vs 🚁Drone classification Convolutional Neural Network⚛️
 
 Being inspired buy building custom digit recognition nerural network, I thought that it would be cool to make it one step further and build a custom CNN. Objective stays the same – understand how it works under the hood!
 
